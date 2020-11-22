@@ -1,0 +1,12 @@
+.backcolor {
+    background-image: url(backroundimage.jpg);
+    height: 1500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+::placeholder {
+    color: white!important;
+}
+
